@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-09-12T13:41:39</DateModified>
+  <DateModified>2024-09-12T17:00:30</DateModified>
   <ModuleName>regfile</ModuleName>
   <SummaryTimeStamp>2024-09-12T13:41:39</SummaryTimeStamp>
   <SavedFilePath>D:/FPGA/SC3050-lab2/CE3001-lab2/iseconfig/regfile.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/FPGA/SC3050-lab2/CE3001-lab2</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/FPGA/SC3050-lab2/CE3001-lab2\</ImplementationReportsDirectory>
   <DateInitialized>2024-09-12T13:07:12</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
