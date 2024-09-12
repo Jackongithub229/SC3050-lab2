@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.xst" -ofn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.syr" 
+xst -intstyle ise -ifn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.xst" -ofn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.syr" 
+xst -intstyle ise -ifn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.xst" -ofn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.syr" 
+xst -intstyle ise -ifn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.xst" -ofn "D:/FPGA/SC3050-lab2/CE3001-lab2/regfile.syr" 

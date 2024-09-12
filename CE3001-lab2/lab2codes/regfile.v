@@ -16,9 +16,9 @@ module regfile (
 	);
 
     
-	input clk;
-	input rst;
-	input wen;
+	input clk; // clock
+	input rst; // reset
+	input wen; // write enable
 	input [`ASIZE-1:0] raddr1; 
 	input [`ASIZE-1:0] raddr2; 
 	input [`ASIZE-1:0] waddr; 
@@ -29,7 +29,7 @@ module regfile (
 
 
 
-	reg [`DSIZE-1:0] regdata [0:`NREG-1];
+	reg [`DSIZE-1:0] regdata [0:`NREG-1]; // create an array of 32 64-bit reg
 	
 integer i;
 	always@(posedge clk)
@@ -37,7 +37,7 @@ integer i;
 			if(rst)
 				begin
 					for (i=0; i<`NREG; i=i+1)
-					regdata[i] <=0;
+					regdata[i]<=0; 
 					regdata[2]<=2;
 					regdata[1]<=3;
 				end
