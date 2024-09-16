@@ -1,0 +1,4 @@
+verilog work "lab2codes/regfile.v"
+verilog work "lab2codes/control.v"
+verilog work "lab2codes/alu.v"
+verilog work "lab2codes/datapath_single.v"

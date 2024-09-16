@@ -1,8 +1,22 @@
 ISim log file
-Running: D:\FPGA\SC3050-lab2\CE3001-lab2\regfiletest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/FPGA/SC3050-lab2/CE3001-lab2/regfiletest_isim_beh.wdb 
-Time resolution is 1 fs
+Running: D:\FPGA_projects\SC3050-lab2\CE3001-lab2\datapath_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/FPGA_projects/SC3050-lab2/CE3001-lab2/datapath_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
 # onerror resume
 # wave add /
-No active Database
 # run 1000 ns
-Unable to execute live simulation command.
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+SIMULATION STARTED
+# run all
+Stopped at time : 3500 ns : File "D:/FPGA_projects/SC3050-lab2/CE3001-lab2/datapath_tb.v" Line 71
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+SIMULATION STARTED
+Stopped at time : 3500 ns : File "D:/FPGA_projects/SC3050-lab2/CE3001-lab2/datapath_tb.v" Line 71

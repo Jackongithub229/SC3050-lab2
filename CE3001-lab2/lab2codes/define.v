@@ -14,8 +14,8 @@
 `define EOF 64'hFFFF_FFFF_FFFF_FFFF
 `define NULL 0
 `define MAX_LINE_LENGTH 1000
-`define DSIZE 64 // Bitwidth of each register 
-`define NREG 32 //Number of registers 
-`define ISIZE 32 //instuction size
-`define ASIZE 5//Address size
+`define DSIZE   64 // Bitwidth of each register 
+`define NREG    32 //Number of registers 
+`define ISIZE   32 //instuction size
+`define ASIZE   5  //Address size
 

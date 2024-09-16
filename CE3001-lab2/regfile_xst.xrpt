@@ -5,14 +5,14 @@
     The structure and the elements are likely to change over the next few releases.
     This means code written to parse this file will need to be revisited each subsequent release.-->
 
-  <application stringID="Xst" timeStamp="Thu Sep 12 13:41:42 2024">
+  <application stringID="Xst" timeStamp="Fri Sep 13 14:02:34 2024">
     <section stringID="User_Env">
       <table stringID="User_EnvVar">
         <column stringID="variable"/>
         <column stringID="value"/>
         <row stringID="row" value="0">
           <item stringID="variable" value="Path"/>
-          <item stringID="value" value="D:\ISE\14.7\ISE_DS\ISE\\lib\nt64;D:\ISE\14.7\ISE_DS\ISE\\bin\nt64;D:\ISE\14.7\ISE_DS\ISE\bin\nt64;D:\ISE\14.7\ISE_DS\ISE\lib\nt64;D:\ISE\14.7\ISE_DS\ISE\..\..\..\DocNav;D:\ISE\14.7\ISE_DS\PlanAhead\bin;D:\ISE\14.7\ISE_DS\EDK\bin\nt64;D:\ISE\14.7\ISE_DS\EDK\lib\nt64;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnuwin\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\arm\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_be\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_le\bin;D:\ISE\14.7\ISE_DS\common\bin\nt64;D:\ISE\14.7\ISE_DS\common\lib\nt64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\MATLAB\R2024a\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\fanwe\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\fanwe\AppData\Local\Programs\Python\Python312\;C:\Users\fanwe\AppData\Local\Programs\Python\Launcher\;C:\Users\fanwe\AppData\Local\Microsoft\WindowsApps;C:\Users\fanwe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\fanwe\AppData\Local\Muse Hub\lib;C:\msys64\ucrt64\bin"/>
+          <item stringID="value" value="D:\ISE\14.7\ISE_DS\ISE\\lib\nt64;D:\ISE\14.7\ISE_DS\ISE\\bin\nt64;D:\ISE\14.7\ISE_DS\ISE\bin\nt64;D:\ISE\14.7\ISE_DS\ISE\lib\nt64;D:\ISE\14.7\ISE_DS\ISE\..\..\..\DocNav;D:\ISE\14.7\ISE_DS\PlanAhead\bin;D:\ISE\14.7\ISE_DS\EDK\bin\nt64;D:\ISE\14.7\ISE_DS\EDK\lib\nt64;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnuwin\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\arm\nt\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_be\bin;D:\ISE\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_le\bin;D:\ISE\14.7\ISE_DS\common\bin\nt64;D:\ISE\14.7\ISE_DS\common\lib\nt64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;D:\MATLAB\R2024a\bin;C:\Program Files\PuTTY\;C:\Users\Fan Wei Jack\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Fan Wei Jack\AppData\Local\Programs\Python\Python312\;C:\Users\Fan Wei Jack\AppData\Local\Microsoft\WindowsApps;C:\Users\Fan Wei Jack\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\ucrt64\bin"/>
         </row>
         <row stringID="row" value="1">
           <item stringID="variable" value="PATHEXT"/>
@@ -24,7 +24,7 @@
         </row>
         <row stringID="row" value="3">
           <item stringID="variable" value="XILINXD_LICENSE_FILE"/>
-          <item stringID="value" value="D:\ISE\14.7\ISE_DS\Xilinx.lic"/>
+          <item stringID="value" value="D:\DOWNLOADS\Xilinx.lic"/>
         </row>
         <row stringID="row" value="4">
           <item stringID="variable" value="XILINX_DSP"/>
@@ -43,13 +43,13 @@
         <item stringID="User_EnvOsname" value="Microsoft , 64-bit"/>
         <item stringID="User_EnvOsrelease" value="major release  (build 9200)"/>
       </item>
-      <item stringID="User_EnvHost" value="LAPTOP-IRIBTSP4"/>
+      <item stringID="User_EnvHost" value="DESKTOP-4PELNS8"/>
       <table stringID="User_EnvCpu">
         <column stringID="arch"/>
         <column stringID="speed"/>
         <row stringID="row" value="0">
-          <item stringID="arch" value="AMD Ryzen 9 8945HS w/ Radeon 780M Graphics"/>
-          <item stringID="speed" value="3992 MHz"/>
+          <item stringID="arch" value="AMD Ryzen 7 2700X Eight-Core Processor         "/>
+          <item stringID="speed" value="3693 MHz"/>
         </row>
       </table>
     </section>

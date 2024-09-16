@@ -1,0 +1,6 @@
+verilog work "lab2codes/regfile.v"
+verilog work "lab2codes/control.v"
+verilog work "lab2codes/alu.v"
+verilog work "lab2codes/datapath_single.v"
+verilog work "datapath_tb.v"
+verilog work "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -31,7 +31,7 @@ module regfile (
 
 	reg [`DSIZE-1:0] regdata [0:`NREG-1]; // create an array of 32 64-bit reg
 	
-integer i;
+ 	integer i;
 	always@(posedge clk)
 		begin
 			if(rst)

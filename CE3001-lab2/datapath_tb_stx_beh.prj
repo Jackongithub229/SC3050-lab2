@@ -1,0 +1,6 @@
+verilog isim_temp "lab2codes/regfile.v"
+verilog isim_temp "lab2codes/control.v"
+verilog isim_temp "lab2codes/alu.v"
+verilog isim_temp "lab2codes/datapath_single.v"
+verilog isim_temp "datapath_tb.v"
+verilog isim_temp "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

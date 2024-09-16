@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/FPGA/SC3050-lab2/CE3001-lab2/regfiletest_isim_beh.exe" -prj "D:/FPGA/SC3050-lab2/CE3001-lab2/regfiletest_beh.prj" "work.regfiletest" "work.glbl" 
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/FPGA_projects/SC3050-lab2/CE3001-lab2/datapath_tb_isim_beh.exe" -prj "D:/FPGA_projects/SC3050-lab2/CE3001-lab2/datapath_tb_beh.prj" "work.datapath_tb" "work.glbl" 
